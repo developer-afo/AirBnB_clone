@@ -149,8 +149,8 @@ $ ./console.py
 ["[User] (70f71c16-962b-48ad-9df8-9203fe23d612) {'Age': 20, 'created_at': datetime.datetime(2020, 2, 19, 18, 11, 32, 341144), 'id': '70f71c16-962b-48ad-9df8-9203fe23d612', 'updated_at': datetime.datetime(2020, 2, 19, 18, 13, 9, 937933)}"]
 (hbnb)
   
- # Destroy an object
-  (hbnb) destroy
+# Destroy an object
+ (hbnb) destroy
 ** class name missing **
 (hbnb) destroy User
 ** instance id missing **
