@@ -1,6 +1,6 @@
-#AirBnB Clone - The Console
+# AirBnB Clone - The Console
 
-!(https://raw.githubusercontent.com/monoprosito/AirBnB_clone/feature/console/hBnB.png)
+![This is an image](https://raw.githubusercontent.com/monoprosito/AirBnB_clone/feature/console/hBnB.png)
 
 How to handle named arguments in a function
 
