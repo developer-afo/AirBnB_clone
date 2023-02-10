@@ -22,29 +22,31 @@ be able to manage the objects of our project:
 
 - Destroy an object
 
-Learning Objectives
-General
-How to create a Python package
+# Learning Objectives
 
-How to create a command interpreter in Python using the cmd module
+# General
 
-What is Unit testing and how to implement it in a large project
+- How to create a Python package
 
-How to serialize and deserialize a Class
+- How to create a command interpreter in Python using the cmd module
 
-How to write and read a JSON file
+- What is Unit testing and how to implement it in a large project
 
-How to manage datetime
+- How to serialize and deserialize a Class
 
-What is an UUID
+- How to write and read a JSON file
 
-What is *args and how to use it
+- How to manage datetime
 
-What is **kwargs and how to use it
+- What is an UUID
 
-How to handle named arguments in a function
+- What is *args and how to use it
 
-Execution
+- What is **kwargs and how to use it
+
+- How to handle named arguments in a function
+
+# Execution
 Your shell should work like this in interactive mode:
 
 $ ./console.py
